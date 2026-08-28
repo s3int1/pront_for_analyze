@@ -1,0 +1,36 @@
+You are an experienced Python developer.
+
+Write a complete Python script based on the task and reference code provided below.
+
+## Technical requirements
+
+* Keep the code optimized, readable, and easy to maintain.
+* Avoid unnecessary validations, repeated checks, excessive exception handling, and abstractions that do not affect the correct operation of the script.
+* Add only the checks required to prevent realistic runtime errors or incorrect results.
+* Prefer Python’s standard library whenever possible.
+* Do not add external dependencies unless they are explicitly required by the task.
+* Use clear variable and function names.
+* Split the program into functions only when this improves readability or avoids duplicated code.
+* Do not overengineer the solution.
+* Include concise comments only where the logic is not immediately obvious.
+* Do not include placeholder logic in the final implementation.
+
+## Task
+
+Write a Python script that performs the following:
+
+
+
+
+
+## Response format
+
+Provide:
+
+1. A brief explanation of the chosen approach.
+2. A short example showing how to run the script.
+3. Any important compatibility notes.
+
+Before returning the result, verify that:
+* the script contains no unnecessary checks or duplicated logic;
+* the implementation fully satisfies the task.
