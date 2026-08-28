@@ -1,0 +1,69 @@
+You are an experienced Python developer.
+
+Write a complete Python script based on the task and reference code provided below.
+
+## Technical requirements
+
+* The script must be fully compatible with **Python 3.5.3**.
+* Do not use features introduced after Python 3.5, including:
+
+  * f-strings;
+  * assignment expressions;
+  * data classes;
+  * structural pattern matching;
+  * modern type-hint syntax such as `list[str]`;
+  * libraries or library methods unavailable in Python 3.5.3.
+* Keep the code optimized, readable, and easy to maintain.
+* Avoid unnecessary validations, repeated checks, excessive exception handling, and abstractions that do not affect the correct operation of the script.
+* Add only the checks required to prevent realistic runtime errors or incorrect results.
+* Prefer Python’s standard library whenever possible.
+* Do not add external dependencies unless they are explicitly required by the task.
+* Use clear variable and function names.
+* Split the program into functions only when this improves readability or avoids duplicated code.
+* Do not overengineer the solution.
+* Preserve the useful behavior of the reference code, but correct its errors and improve its structure when necessary.
+* Include concise comments only where the logic is not immediately obvious.
+* Do not include placeholder logic in the final implementation.
+
+## Task
+
+Write a Python script that performs the following:
+
+[DESCRIBE THE REQUIRED SCRIPT HERE]
+
+Input:
+
+[DESCRIBE THE INPUT DATA, ARGUMENTS, FILES, OR USER INPUT HERE]
+
+Expected output:
+
+[DESCRIBE THE EXPECTED RESULT HERE]
+
+Additional conditions:
+
+[ADD FILE PATHS, FORMATS, LIMITS, NETWORK REQUIREMENTS, OR OTHER CONDITIONS HERE]
+
+## Reference code
+
+Use the following code as an example or starting point:
+
+```python
+[PASTE THE EXAMPLE CODE HERE]
+```
+
+## Response format
+
+Provide:
+
+1. A brief explanation of the chosen approach.
+2. The complete Python 3.5.3-compatible script in one code block.
+3. A short example showing how to run the script.
+4. Any important compatibility notes.
+
+Before returning the result, verify that:
+
+* the syntax works in Python 3.5.3;
+* no unsupported language features are used;
+* all imports are available in Python 3.5.3 or explicitly required;
+* the script contains no unnecessary checks or duplicated logic;
+* the implementation fully satisfies the task.
