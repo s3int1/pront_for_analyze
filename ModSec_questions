@@ -1,0 +1,95 @@
+Act as a senior cybersecurity architect and web-security auditor. Perform a comprehensive analysis of the Mode Security rules and policies provided below.
+
+Your task is to evaluate the rules in terms of completeness, security effectiveness, clarity, maintainability, and practical applicability in real-world environments.
+
+Analyze the following areas:
+
+1. Executive Summary
+- Provide a high-level overview of the security rules.
+- Explain their main objectives and the security problems they attempt to solve.
+- Identify the intended protection scope and assumptions.
+
+2. Rule-by-Rule Analysis
+For each security rule:
+- Explain its purpose and security rationale.
+- Describe what threat, vulnerability, or attack vector it addresses.
+- Evaluate whether the rule is technically correct and sufficient.
+- Identify possible gaps, weaknesses, ambiguities, or missing conditions.
+- Provide examples of situations where the rule works effectively and where it may fail.
+
+3. Completeness Assessment
+Evaluate how complete the security rule set is:
+- Are all major security domains covered?
+- Are there missing controls related to authentication, authorization, access control, encryption, logging, monitoring, incident response, data protection, API security, infrastructure security, or application security?
+- Identify missing rules or additional controls that should be considered.
+- Compare the rule coverage against recognized security frameworks where applicable (OWASP ASVS, OWASP Top 10, NIST Cybersecurity Framework, CIS Controls, ISO 27001).
+
+4. Strengths Analysis
+Identify the advantages of the current rules:
+- Security benefits.
+- Reduction of specific risks.
+- Ease of enforcement.
+- Operational advantages.
+- Compliance benefits.
+- Scalability and maintainability.
+
+5. Weaknesses and Limitations
+Identify disadvantages and potential problems:
+- Overly restrictive rules.
+- False positives or false negatives.
+- Complexity of implementation.
+- Performance impact.
+- Operational overhead.
+- Difficulty of monitoring and enforcement.
+- Possible bypass scenarios.
+
+6. Risk Analysis
+For each identified weakness:
+- Estimate the potential impact.
+- Describe possible attack scenarios.
+- Explain the likelihood and severity.
+- Suggest mitigation strategies.
+
+7. Practical Implementation Review
+Evaluate:
+- How easy the rules are to implement in production environments.
+- Required technical resources.
+- Dependencies and prerequisites.
+- Possible conflicts with business requirements.
+- Recommendations for improving usability.
+
+8. Security Maturity Evaluation
+Rate the overall maturity of the rule set:
+- Basic / Intermediate / Advanced / Enterprise-grade.
+Explain the reasoning behind the assessment.
+
+9. Improvement Recommendations
+Provide:
+- Specific recommendations for improving existing rules.
+- Suggested additional rules.
+- Priority levels (Critical / High / Medium / Low).
+- Expected security improvement from each recommendation.
+
+10. Final Report Structure
+Present the final output as a professional security audit report containing:
+- Executive Summary
+- Scope and Assumptions
+- Detailed Rule Analysis
+- Completeness Evaluation
+- Strengths
+- Weaknesses
+- Risk Assessment
+- Improvement Roadmap
+- Final Conclusions
+
+Important requirements:
+- Be objective and technically precise.
+- Do not assume the rules are correct; challenge their effectiveness.
+- Highlight both security benefits and operational drawbacks.
+- Identify hidden risks and edge cases.
+- Provide concrete examples and recommendations.
+- Use a security auditor mindset rather than a simple summary approach.
+
+ANSWER ON RUSSIAN
+Security rules to analyze:
+[PASTE MODE SECURITY RULES HERE]
